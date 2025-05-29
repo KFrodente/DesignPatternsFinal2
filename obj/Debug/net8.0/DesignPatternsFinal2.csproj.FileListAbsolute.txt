@@ -1,0 +1,15 @@
+C:\Users\kfrodente\source\repos\DesignPatternsFinal2\DesignPatternsFinal2\bin\Debug\net8.0\DesignPatternsFinal2.exe
+C:\Users\kfrodente\source\repos\DesignPatternsFinal2\DesignPatternsFinal2\bin\Debug\net8.0\DesignPatternsFinal2.deps.json
+C:\Users\kfrodente\source\repos\DesignPatternsFinal2\DesignPatternsFinal2\bin\Debug\net8.0\DesignPatternsFinal2.runtimeconfig.json
+C:\Users\kfrodente\source\repos\DesignPatternsFinal2\DesignPatternsFinal2\bin\Debug\net8.0\DesignPatternsFinal2.dll
+C:\Users\kfrodente\source\repos\DesignPatternsFinal2\DesignPatternsFinal2\bin\Debug\net8.0\DesignPatternsFinal2.pdb
+C:\Users\kfrodente\source\repos\DesignPatternsFinal2\DesignPatternsFinal2\obj\Debug\net8.0\DesignPatternsFinal2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kfrodente\source\repos\DesignPatternsFinal2\DesignPatternsFinal2\obj\Debug\net8.0\DesignPatternsFinal2.AssemblyInfoInputs.cache
+C:\Users\kfrodente\source\repos\DesignPatternsFinal2\DesignPatternsFinal2\obj\Debug\net8.0\DesignPatternsFinal2.AssemblyInfo.cs
+C:\Users\kfrodente\source\repos\DesignPatternsFinal2\DesignPatternsFinal2\obj\Debug\net8.0\DesignPatternsFinal2.csproj.CoreCompileInputs.cache
+C:\Users\kfrodente\source\repos\DesignPatternsFinal2\DesignPatternsFinal2\obj\Debug\net8.0\DesignPatternsFinal2.sourcelink.json
+C:\Users\kfrodente\source\repos\DesignPatternsFinal2\DesignPatternsFinal2\obj\Debug\net8.0\DesignPatternsFinal2.dll
+C:\Users\kfrodente\source\repos\DesignPatternsFinal2\DesignPatternsFinal2\obj\Debug\net8.0\refint\DesignPatternsFinal2.dll
+C:\Users\kfrodente\source\repos\DesignPatternsFinal2\DesignPatternsFinal2\obj\Debug\net8.0\DesignPatternsFinal2.pdb
+C:\Users\kfrodente\source\repos\DesignPatternsFinal2\DesignPatternsFinal2\obj\Debug\net8.0\DesignPatternsFinal2.genruntimeconfig.cache
+C:\Users\kfrodente\source\repos\DesignPatternsFinal2\DesignPatternsFinal2\obj\Debug\net8.0\ref\DesignPatternsFinal2.dll

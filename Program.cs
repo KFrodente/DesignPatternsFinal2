@@ -1,10 +1,12 @@
-﻿namespace DesignPatternsFinal2
+﻿using DesignPatternsFinal2.Singleton;
+
+namespace DesignPatternsFinal2
 {
     internal class Program
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, World!");
+            Gun gun = Gun.getInstance();
         }
     }
 }
