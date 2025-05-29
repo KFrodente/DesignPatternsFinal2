@@ -1,4 +1,5 @@
-﻿using DesignPatternsFinal2.Singleton;
+﻿using DesignPatternsFinal2.Command;
+using DesignPatternsFinal2.Singleton;
 
 namespace DesignPatternsFinal2
 {
@@ -7,31 +8,14 @@ namespace DesignPatternsFinal2
         static void Main(string[] args)
         {
             Gun gun = Gun.getInstance();
+            InputHandler inputHandler = new InputHandler();
 
-            while (true)
-            {
-                ConsoleKeyInfo keyInfo = Console.ReadKey(intercept: true);
-                if (keyInfo.Key == ConsoleKey.F)
-                {
-                    gun.FireBullet();
-                }
-                if (keyInfo.Key == ConsoleKey.R)
-                {
-                    gun.FreshReload();
-                }
-                if (keyInfo.Key == ConsoleKey.T)
-                {
-                    gun.CoatWithFlame();
-                }
-                if (keyInfo.Key == ConsoleKey.G)
-                {
-                    gun.CoatWithExplosive();
-                }
-                if (keyInfo.Key == ConsoleKey.Q)
-                {
-                    break;
-                }
-            }
+            inputHandler.BindCommand(ConsoleKey.F, () => gun.FireBullet());
+            inputHandler.BindCommand(ConsoleKey.R, () => gun.FreshReload());
+            inputHandler.BindCommand(ConsoleKey.T, () => gun.CoatWithFlame());
+            inputHandler.BindCommand(ConsoleKey.G, () => gun.CoatWithExplosive());
+
+            inputHandler.Listen();
         }
     }
 }
